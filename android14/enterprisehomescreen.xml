@@ -1,35 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <config>
 	<kiosk>
 	</kiosk>
 	<applications>
-		<application label="PIXI" package="com.pixi.mobile" activity="crc64700149c5641e4f75.MainActivity" />
-		<application label="OneDrive" package="com.microsoft.skydrive" activity="com.microsoft.skydrive.MainActivity" />
-		<application label="Rechner" package="com.google.android.calculator" activity="com.android.calculator2.Calculator" />
-		<application label="Kamera" package="org.codeaurora.snapcam" activity="com.android.camera.CameraLauncher" />
-		<application label="Fotos" package="com.google.android.apps.photos" activity="com.google.android.apps.photos.home.HomeActivity" />
-		<application label="ZebraFinder" package="com.espas.zebrafinder" activity="com.espas.zebrafinder.MainActivity" />
+		<application label="PIXI" package="com.pixi.mobile" activity="crc64700149c5641e4f75.MainActivity"/>
+		<application label="OneDrive" package="com.microsoft.skydrive" activity="com.microsoft.skydrive.MainActivity"/>
+		<application label="Rechner" package="com.google.android.calculator" activity="com.android.calculator2.Calculator"/>
+		<application label="Kamera" package="org.codeaurora.snapcam" activity="com.android.camera.CameraLauncher"/>
+		<application label="Fotos" package="com.google.android.apps.photos" activity="com.google.android.apps.photos.home.HomeActivity"/>
+		<application label="ZebraFinder" package="com.espas.zebrafinder" activity="com.espas.zebrafinder.MainActivity"/>
 	</applications>
 	<tools>
 	</tools>
 	<passwords>
-		<admin />
+		<admin>t0LdMtOin0bHC8oyAMEFIrxyCJt+ZfrlcM15+RzP8n4=rvBTMRsP06ZqPrsJg53gPQZaTTZIX7z10TKYuOGAX84=</admin>
 	</passwords>
 	<preferences>
 		<title>ESPAS</title>
 		<icon_label_background_color>#00FFFFFF</icon_label_background_color>
 		<icon_label_text_color>#FF000000</icon_label_text_color>
-		<orientation />
+		<orientation/>
 		<auto_launch_enable>0</auto_launch_enable>
 		<service_auto_launch_enable>0</service_auto_launch_enable>
 		<wallpaper>/enterprise/usr/ESPAS_Arbeitsprofil.png</wallpaper>
 		<kiosk_mode_enabled>0</kiosk_mode_enabled>
 		<keyguard_camera_disabled>1</keyguard_camera_disabled>
 		<keyguard_search_disabled>1</keyguard_search_disabled>
-		<usb_debugging_disabled>0</usb_debugging_disabled>
-		<system_settings_restricted>0</system_settings_restricted>
-		<recent_apps_button_disabled>0</recent_apps_button_disabled>
-		<recent_apps_access_disabled>0</recent_apps_access_disabled>
+		<usb_debugging_disabled>1</usb_debugging_disabled>
+		<system_settings_restricted>1</system_settings_restricted>
+		<recent_apps_button_disabled>1</recent_apps_button_disabled>
+		<recent_apps_access_disabled>1</recent_apps_access_disabled>
 		<wireless_info>
 			<show_ip_address>0</show_ip_address>
 			<show_mac_address>0</show_mac_address>
