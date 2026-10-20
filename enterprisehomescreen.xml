@@ -64,7 +64,7 @@
         <keyguard_camera_disabled>1</keyguard_camera_disabled>
         <keyguard_search_disabled>1</keyguard_search_disabled>
 
-        <usb_debugging_disabled>0</usb_debugging_disabled>
+        <usb_debugging_disabled>1</usb_debugging_disabled>
 
         <system_settings_restricted>1</system_settings_restricted>
 
